@@ -1,6 +1,5 @@
 return {
   -- customize alpha options
-  { "xiyaowong/nvim-transparent",                  lazy = false },
   { "srcery-colors/srcery-vim",                    lazy = false },
   { "jghauser/mkdir.nvim",                         lazy = false },
   { "EdenEast/nightfox.nvim",                      lazy = false },
