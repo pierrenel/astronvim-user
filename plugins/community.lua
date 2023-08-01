@@ -11,6 +11,8 @@ return {
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.utility.transparent-nvim" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.project.project-nvim" },
   { -- further customize the options set by the community
     "catppuccin",
     opts = {
