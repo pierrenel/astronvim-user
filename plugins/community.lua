@@ -13,6 +13,11 @@ return {
   { import = "astrocommunity.utility.transparent-nvim" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.project.project-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" },
+  { import = "astrocommunity.editing-support.treej" },
+  { import = "astrocommunity.debugging.nvim-bqf" },
+  { import = "astrocommunity.git.git-blame-nvim" },
+  { import = "astrocommunity.diagnostics.trouble-nvim" },
   { -- further customize the options set by the community
     "catppuccin",
     opts = {
