@@ -14,7 +14,7 @@ return {
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.project.project-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
-  { import = "astrocommunity.editing-support.treej" },
+  { import = "astrocommunity.editing-support.treesj" },
   { import = "astrocommunity.debugging.nvim-bqf" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },

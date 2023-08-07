@@ -4,7 +4,6 @@ return {
   { "jghauser/mkdir.nvim",                         lazy = false },
   { "EdenEast/nightfox.nvim",                      lazy = false },
   { "relastle/bluewery.vim",                       lazy = false },
-  { "Everblush/nvim",                              lazy = false },
   { "lmburns/kimbox" },
   { "ramojus/mellifluous.nvim",                    lazy = false },
   { "sainnhe/sonokai" },
